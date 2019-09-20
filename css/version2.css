@@ -40,10 +40,9 @@ footer {
 }
 article {
     color: #000;
-    padding: 50px;
+    padding: 20px;
     display: flex;
-    flex-direction: column;
-}
+  }
 section {
     margin: auto;
     width: 600px;
@@ -60,14 +59,13 @@ section {
     background: #FFBC82;
 }
 .text {
-    background: #fff;
     color: #000;
-    padding: 50px;
+    padding: 30px;
     font-size: 12pt;
     line-height: 20px;
 }
-h2 {
-    text-align: center;
+.photo {
+    margin-top: 50px;
 }
 
 /* ----- SUGGESTED COLORS -----
